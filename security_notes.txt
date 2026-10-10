@@ -1,0 +1,3 @@
+Never hardcode passwords or Api keys in source code.
+Validate and sanitize all user input before processing it.
+Use parameterized queries to prevent SQL injection.
